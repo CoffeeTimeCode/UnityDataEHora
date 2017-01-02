@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CC1E6182-10AA-399B-9C1F-8FCCB256B695}") = "DataEHora", "Assembly-CSharp.csproj", "{53726A73-4270-E14C-B0EB-271BD9F749C1}"
+EndProject
+Project("{CC1E6182-10AA-399B-9C1F-8FCCB256B695}") = "DataEHora", "Assembly-UnityScript.unityproj", "{2D642396-3D95-0E6B-FC8C-BB43E0975D41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53726A73-4270-E14C-B0EB-271BD9F749C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53726A73-4270-E14C-B0EB-271BD9F749C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53726A73-4270-E14C-B0EB-271BD9F749C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53726A73-4270-E14C-B0EB-271BD9F749C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D642396-3D95-0E6B-FC8C-BB43E0975D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D642396-3D95-0E6B-FC8C-BB43E0975D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D642396-3D95-0E6B-FC8C-BB43E0975D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D642396-3D95-0E6B-FC8C-BB43E0975D41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
